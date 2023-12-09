@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #333
+}
+
+body {
+  padding: 20px;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(90deg, rgb(255, 31, 28) 0%, rgb(255, 195, 195) 100%);
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+
+.form{
+  margin-left: 380px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

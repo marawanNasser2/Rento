@@ -1,0 +1,16 @@
+POST  http://localhost:3000/users
+
+
+Content-Type: application/json
+
+{
+   "username": "amr_ibrahim11",
+   "email": "amr@gmail.com",
+   "password": "123456789",
+   "firstName": "Amr",
+   "lastName": "Ibrahim",
+   "dateOfBirth": "22-10-2002",
+   "gender": "Male",
+   "address": "Misr El-Gedida",
+   "phone": "01178648259",
+}

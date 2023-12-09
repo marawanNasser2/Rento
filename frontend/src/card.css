@@ -1,0 +1,51 @@
+.img-style {
+    width: 400px;
+    object-fit: scale-down;
+}
+
+.h3-style {
+    font-weight: bold;
+}
+
+.button-style {
+    background-color: white;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    font-weight: bold;
+    border-radius: 0.125rem;
+}
+
+.card-header-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+}
+
+.card-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    border-radius: 0.5rem;
+    background-color: #B0B8B9;
+    width: 500px;
+    aspect-ratio: 1;
+    overflow: hidden;
+}
+
+.card-action-div {
+    display: flex;
+    gap: 4px;
+}
+
+.card-body-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}

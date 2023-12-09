@@ -1,0 +1,14 @@
+POST http://localhost:3000/cars
+
+Content-Type: application/json
+
+{
+    "carID" : "003",
+    "carPlate": "ق س ن 1478",
+    "Model": "HS",
+    "Brand": "MG",
+    "Year": "2021",
+    "carType": "SUV",
+    "carImages": "https://www.mgcars.com/images/mg-models/newmghsphev/color/Black.png",
+    //"Availability": true
+}

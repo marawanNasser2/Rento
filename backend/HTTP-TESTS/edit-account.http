@@ -1,0 +1,8 @@
+PUT   http://localhost:3000/users/amr_ibrahim1
+
+Content-Type: application/json
+
+{
+    "Password": "147258369",
+    "email": "amr111@gmail.com",
+}
